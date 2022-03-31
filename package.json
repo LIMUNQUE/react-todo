@@ -1,6 +1,6 @@
 {
   "homegage": "http://limunque.github.io/react-todo",
-  "name": "prueba",
+  "name": "react-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
